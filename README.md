@@ -1,1 +1,1 @@
-# cardterminal-pcsc
+# terminal-pcsc
